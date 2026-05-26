@@ -1,2 +1,2 @@
-# GARK
+# GARC
 ArcDPS Enhancer
